@@ -1,0 +1,4 @@
+#Thu Feb 28 23:00:52 ICT 2019
+base.0=C\:\\Users\\Zherantova\\Documents\\AndroidFiles\\hulk-master\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

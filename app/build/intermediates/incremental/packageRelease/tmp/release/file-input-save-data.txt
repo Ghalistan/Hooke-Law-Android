@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Thu Feb 28 23:00:52 ICT 2019
+1.base=C\:\\Users\\Zherantova\\Documents\\AndroidFiles\\hulk-master\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+2.path=Chalkduster-54.vlw
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\Zherantova\\Documents\\AndroidFiles\\hulk-master\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=Chalkduster-48.vlw
+count=4
+1.set=DEX
+0.path=hulk.png
+3.base=C\:\\Users\\Zherantova\\Documents\\AndroidFiles\\hulk-master\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+0.set=ASSET
+0.base=C\:\\Users\\Zherantova\\Documents\\AndroidFiles\\hulk-master\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+2.baseType=DIRECTORY
+1.path=classes.dex
