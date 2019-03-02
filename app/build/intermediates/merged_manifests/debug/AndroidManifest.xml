@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.edu.poligran.hooke"
+    package="zhega.andro.main.hookelaw"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -9,9 +9,10 @@
     <application
         android:debuggable="true"
         android:icon="@drawable/icon"
-        android:label="Hooke" >
+        android:label="Hooke"
+        android:testOnly="true" >
         <activity
-            android:name="co.edu.poligran.hooke.Main"
+            android:name="zhega.andro.main.hookelaw.Main"
             android:label="Hooke" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,9 +21,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="co.edu.poligran.hooke.Hooke"
+            android:name="zhega.andro.main.hookelaw.Hooke"
             android:configChanges="orientation|keyboard"
             android:screenOrientation="landscape" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="zhega.andro.main.hookelaw.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>
